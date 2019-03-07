@@ -1,5 +1,5 @@
 # reddit-client
-[Demo](reddit-clone-4fc1a.firebaseapp.com)
+[Demo](https://reddit-clone-4fc1a.firebaseapp.com/)
 
 ## Project setup
 ```
